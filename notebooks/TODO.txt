@@ -1,0 +1,10 @@
+TODO List:
+
+- Finish Notebooks
+- Check for correct code
+- Check for correct explanations
+- Update RAJA Perf Kernels to use trivial execution for fair comparason
+- Notebook 0 with RAJA Perf and RAJA explained. (Introduction)
+- Enhance content
+- Do we want to look at the performance?
+
