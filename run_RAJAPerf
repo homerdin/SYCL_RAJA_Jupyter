@@ -1,1 +1,3 @@
-${PDB_O_WORKDIR}/src/RAJAPerf/build_sycl/bin/raja-perf.exe -od output
+cd ${PDB_O_WORKDIR}
+./src/RAJAPerf/build_sycl/bin/raja-perf.exe -od output
+

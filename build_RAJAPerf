@@ -1,2 +1,4 @@
-${PDB_O_WORKDIR}/src/RAJAPerf/scripts/alcf-builds/sycl.sh
-cd ${PDB_O_WORKDIR}/src/RAJAPerf/build_sycl && make -j 4
+cd ${PBS_O_WORKDIR}/src/RAJAPerf
+./scripts/alcf-builds/sycl.sh
+cd ${PBS_O_WORKDIR}/src/RAJAPerf/build_sycl && make -j 4
+
